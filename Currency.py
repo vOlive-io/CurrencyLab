@@ -6,4 +6,4 @@ class CurrencyConverter:
         return round(amount/self.exchange_rates[from_currency] * self.exchange_rates[to_currency], 2)
         
     def add_rate(self, currency, rate): 
-        self.exchange_rates[currency] = rate    
+        self.exchange_rates[currency] = rate
