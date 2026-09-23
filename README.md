@@ -3,6 +3,9 @@ This is a lab assignment from Ms Ormes' software engineering class, for more inf
 
 ## Class working
 This class is a simple currency translator, based in USD
+|-----|----|
+|Instance Variables & Methods | Description |
+
 
 ## Automated Testing
 Every time I commit to the repository GitHub actions runs tests for me, you can replicate this by creating a .github/workflows/run-tests.yml file with the same code as mine
